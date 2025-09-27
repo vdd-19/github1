@@ -22,7 +22,7 @@ git checkout main
 git branch -M "changed name"
 git branch -a
 
-git push orgin new branch
+git push origin new branch
 
 git stash
 git stash pop
