@@ -1,7 +1,7 @@
 git config --global user.name "vdd-19"
 git config --global user.email "dhivyadharshini0401@gmail.com"
 git clone
-
+git init
 --after day by use---
 
 go to cmd
@@ -12,3 +12,17 @@ git commit -m mistake
 git push
 
 git pull
+
+--
+git status
+----
+git branch
+git checkout -b "name of newbranch"
+git checkout main
+git branch -M "changed name"
+git branch -a
+
+git push orgin new branch
+
+git stash
+git stash pop
