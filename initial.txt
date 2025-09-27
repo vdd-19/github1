@@ -3,6 +3,7 @@ git config --global user.email "dhivyadharshini0401@gmail.com"
 git clone
 git init
 --after day by use---
+no use
 
 go to cmd
 cd loc of git folder
