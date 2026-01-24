@@ -1,0 +1,17 @@
+ats agent:opal
+https://opal.google/?flow=drive:/1qsv2_Zvq1eEqa38bAb8Qp4NSOqtroL_E&mode=canvas
+
+guess:opal
+https://opal.google/?flow=drive:/1qsv2_Zvq1eEqa38bAb8Qp4NSOqtroL_E&mode=canvas
+
+portfolio:v0 = https://portfolio-b2-zeta.vercel.app/
+https://v0.app/chat/game-developer-portfolio-q6qx2ZwF1aF
+
+fav:gumloop
+https://www.gumloop.com/pipeline?workbook_id=nghD8NCQm1BzndzswGMCeD
+
+chatbot:cursor,nodejs,vercel
+https://chatbot-eight-roan-27.vercel.app/
+
+chatbot:neo4j auro,cursor
+http://localhost:3000/
