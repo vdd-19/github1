@@ -14,4 +14,9 @@ chatbot:cursor,nodejs,vercel
 https://chatbot-eight-roan-27.vercel.app/
 
 chatbot:neo4j auro,cursor
+
 http://localhost:3000/
+
+
+DINOGAME= GOOGLE AI STUDIO
+https://ai.studio/apps/drive/17N6Ji5rj4G-7CGbR91hZTlpr93Y9Hgop?fullscreenApplet=true
